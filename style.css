@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-color: #535353;
+  }
+  
+  h1 {
+    color: #edff9e;
+    font-family: Arial, sans-serif;
+  }
+
+  h4{
+    font-family: Arial, sans-serif;
+    color: #edff9e;
+  }
+  
+  p{
+    color: #edff9e;
+  }
+
+  input {
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 10px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    background-color: #edff9e;
+    color: #666 ;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  #mensaje {
+    color: #edff9e;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
